@@ -15,3 +15,6 @@ Wymagania:
 5. Logowanie/rejestracja (2pkt)
 
 !! - Wymagane
+
+### HomePage
+![homepage](https://github.com/MariiaS3/Medyczne_Systemy/blob/main/my_app/screenshots/1.png)
