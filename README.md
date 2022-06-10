@@ -16,5 +16,17 @@ Wymagania:
 
 !! - Wymagane
 
-### HomePage
-![homepage](https://github.com/MariiaS3/Medyczne_Systemy/blob/main/my_app/screenshots/1.png)
+### Strona głowna
+![homepage](https://github.com/Sarneusz/.NET_PROJECT/blob/main/screens/stronaglowna.jpg)
+### Logowanie
+![homepage](https://github.com/Sarneusz/.NET_PROJECT/blob/main/screens/logowanie.jpg)
+### Rejestracja
+![homepage](https://github.com/Sarneusz/.NET_PROJECT/blob/main/screens/rejestracja.jpg)
+### Polityka Prywatnośći
+![homepage](https://github.com/Sarneusz/.NET_PROJECT/blob/main/screens/polityka%20prywatnosci.jpg)
+### Lista zadań
+![homepage](https://github.com/Sarneusz/.NET_PROJECT/blob/main/screens/listazadan.jpg)
+### Szczegóły zadań
+![homepage](https://github.com/Sarneusz/.NET_PROJECT/blob/main/screens/szczegolyzadan.jpg)
+### Edycja zadań
+![homepage](https://github.com/Sarneusz/.NET_PROJECT/blob/main/screens/edycjazadan.jpg)
