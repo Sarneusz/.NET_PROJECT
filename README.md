@@ -30,5 +30,11 @@ Wymagania:
 ![homepage](https://github.com/Sarneusz/.NET_PROJECT/blob/main/screens/szczegolyzadan.jpg)
 ### Edycja zadań
 ![homepage](https://github.com/Sarneusz/.NET_PROJECT/blob/main/screens/edycjazadan.jpg)
+### Tasks schema
+![homepage](https://github.com/Sarneusz/.NET_PROJECT/blob/main/screens/taskschema.jpg)
+### Tasks list
+![homepage](https://github.com/Sarneusz/.NET_PROJECT/blob/main/screens/taskslist.jpg)
+### UsersDB
+![homepage](https://github.com/Sarneusz/.NET_PROJECT/blob/main/screens/users.jpg)
 
 Aplikacja umożliwia założenie konta, dodawanie, edytowanie, oznacznie jako gotowe i usuwanie zadań do zrobienia.
